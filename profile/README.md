@@ -32,10 +32,6 @@ Raiden is a project founded by Aiden Jastrzembski to help people automate and op
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
         <br>Supabase
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
     <!-- Cloud & ML -->
             <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="48" height="48" alt="Python" />
