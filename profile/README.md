@@ -1,4 +1,8 @@
-# Tech Stack
+# Welcome to Raiden Investments!
+
+Raiden is a project founded by Aiden Jastrzembski to help people automate and optimize their investment portfolios using artifical intellegence. Here you can see the open source sections of the company, as well as request features and discuss bugs and issues with the devs!
+
+## Simplified Tech Stack
 
 <div style="display: inline-block; text-align: center; margin: 8px;">
   <table>
