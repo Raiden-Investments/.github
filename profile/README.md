@@ -1,6 +1,6 @@
 # Welcome to Raiden Investments!
 
-Raiden is a project founded by Aiden Jastrzembski to help people automate and optimize their investment portfolios using artifical intellegence. Here you can see the open source sections of the company, as well as request features and discuss bugs and issues with the devs!
+Raiden is a project founded to help people automate and optimize their investment portfolios using artifical intellegence. Here you can see the open source sections of the company, as well as request features and discuss bugs and issues with the devs!
 
 ## Base Tech Stack
 
