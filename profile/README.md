@@ -30,7 +30,7 @@ Raiden is a project founded to help people automate and optimize their investmen
       </td>
             <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" height="48" alt="Supabase" />
-        <br>Supabase
+        <br>Firebase
       </td>
     <!-- Cloud & ML -->
             <td align="center" width="96">
